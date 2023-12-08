@@ -1,0 +1,10 @@
+Name: m
+Age: 1
+Matric Marks: 1
+Fsc Marks: 1
+Ecat Marks: 1
+Name: w
+Age: 2
+Matric Marks: 2
+Fsc Marks: 22
+Ecat Marks: 2
